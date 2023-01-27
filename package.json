@@ -1,6 +1,6 @@
 {
   "name": "async-callback-promise-wrapper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Wraps any method that takes a callback to return a promise",
   "main": "build/index.js",
   "scripts": {
