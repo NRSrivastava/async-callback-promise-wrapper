@@ -16,7 +16,6 @@ Using npm:
 npm i async-callback-promise-wrapper
 ```
 ## Documentation
-****
 ##### Cjs Module
 
 ```js
