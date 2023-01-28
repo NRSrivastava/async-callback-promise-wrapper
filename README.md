@@ -111,10 +111,11 @@ Distribution files are present in the ```build``` folder.
 
 MIT
 
-**Free Software, Hell Yeah!**
+**Don't forget to Star on [Github]!**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [Typescript]: <https://www.typescriptlang.org/>
    [Jest]: <https://jestjs.io/>
    [Babel]: <https://babeljs.io/>
+   [Github]: <https://github.com/NRSrivastava/async-callback-promise-wrapper>
