@@ -18,14 +18,22 @@ npm i async-callback-promise-wrapper
 const MethodWrapper = require('async-callback-promise-wrapper')
 ```
 ##### Usage
-Referring the method to be wrapped called as **exampleMethod**
+Referring the method to be wrapped as **exampleMethod**
 
+```js
+exampleMethod(input1, input2,..., callback);
+```
+Wrapping the exampleMethod.
 ```js
 const wrappedMethod = MethodWrapper(exampleMethod);
 ```
 or
 ```js
 const wrappedMethod = MethodWrapper(exampleMethod,{...options});
+```
+Using the wrapped method.
+```js
+let receivedPromise =  wrappedMethod(input1, input2,...);
 ```
 ##### Options
 **The method to be wrapped takes the ```input``` arguments _first_ and then the ```callback```**
