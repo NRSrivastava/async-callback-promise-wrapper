@@ -1,13 +1,9 @@
 # async-callback-promise-wrapper
 ## Wraps any method that takes a callback to return a promise
 
-[//]:<[![Build Status](https://travis-ci.org/nrsrivastava/async-callback-promise-wrapper.svg?branch=main)](https://travis-ci.org/nrsrivastava/asynac-callback-promise-wrapper)>
-
 async-callback-promise-wrapper is a swift wrapper that will wrap around your favourite function that requires a callback, and will return a method that returns a promise.
 
 ## Installation
-
-[//]:<Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.>
 
 ##### Package Manger
 Using npm:
